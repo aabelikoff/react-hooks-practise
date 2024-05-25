@@ -1,0 +1,59 @@
+.LogForm {
+  max-width: 800px;
+  margin: 24px auto;
+  border: 2px solid teal;
+  border-radius: 8px;
+  padding: 8px;
+}
+.LogForm.dark {
+  background-color: rgb(164, 161, 161);
+  color: white;
+}
+.LogForm.dark input {
+  background-color: rgb(89, 89, 89);
+  color: white;
+  border: none;
+}
+.formContainer,
+.Settings {
+  display: flex;
+  gap: 8px;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+.Settings {
+  justify-content: center;
+}
+
+input,
+textarea {
+  padding: 8px;
+  margin: 4px;
+  font-size: inherit;
+  border: 2px solid teal;
+  border-radius: 4px;
+  outline: none;
+  resize: none;
+}
+textarea {
+  width: 100%;
+}
+.content {
+  padding: 8px;
+  border-radius: 8px;
+  margin-bottom: 8px;
+  border: 2px solid teal;
+}
+.content-dark {
+  background-color: black;
+  color: white;
+}
+.content.content-dark {
+  border: none;
+}
+.controlBtns {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

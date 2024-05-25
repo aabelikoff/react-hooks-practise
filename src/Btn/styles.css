@@ -1,0 +1,25 @@
+.btn {
+  padding: 8px;
+  border-radius: 4px;
+  border-width: 2px;
+  border-style: solid;
+  font-weight: 500;
+  font-size: inherit;
+  margin: 4px;
+  cursor: pointer;
+}
+
+.btn-light {
+  background-color: whitesmoke;
+  color: teal;
+  border-color: teal;
+}
+.btn-dark {
+  background-color: teal;
+  color: white;
+  border-color: teal;
+}
+
+.btn:disabled {
+  background-color: rgb(185, 182, 182);
+}

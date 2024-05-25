@@ -1,0 +1,12 @@
+.TimerFromMounting {
+  align-self: flex-end;
+  justify-self: flex-end;
+  padding: 8px;
+  border-radius: 4px;
+  border: 2px solid teal;
+  text-align: center;
+}
+.TimerFromMounting > p {
+  margin: 4px;
+  font-weight: 500;
+}

@@ -1,0 +1,40 @@
+.FeedbackForm {
+  background-color: rgb(200, 200, 200);
+  padding: 40px;
+  border-radius: 8px;
+  position: relative;
+  text-align: center;
+}
+.btn-close {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32x;
+  height: 32px;
+  background-color: red;
+  color: white;
+  font-size: 24px;
+  padding: 8px;
+  border: none;
+  outline: none;
+  border-radius: 100%;
+  cursor: pointer;
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  z-index: 1;
+}
+
+.FeedbackForm input {
+  width: 100%;
+}
+.FeedbackForm button.btn {
+  width: 100%;
+}
+
+.dark input,
+.dark textarea {
+  background-color: rgb(89, 89, 89);
+  color: white;
+  border: none;
+}

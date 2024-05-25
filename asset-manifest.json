@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//aabelikoff.github.io/react-hooks-practise/static/css/main.10ec05ca.css",
+    "main.js": "/https//aabelikoff.github.io/react-hooks-practise/static/js/main.6b251d8b.js",
+    "index.html": "/https//aabelikoff.github.io/react-hooks-practise/index.html",
+    "main.10ec05ca.css.map": "/https//aabelikoff.github.io/react-hooks-practise/static/css/main.10ec05ca.css.map",
+    "main.6b251d8b.js.map": "/https//aabelikoff.github.io/react-hooks-practise/static/js/main.6b251d8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10ec05ca.css",
+    "static/js/main.6b251d8b.js"
+  ]
+}
